@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Reemplaza el src con la URL del banner oficial de SavIA-Lab -->
-  <img src="blob:https://web.whatsapp.com/a80b0fa8-ea92-4467-84e9-12a5c7576f49" alt="SavIA Lab Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/5ab1f492-dd3e-440a-aff2-26cacfccfb8f" alt="SavIA Lab Banner" width="100%" />
 
   <h1>SavIA-Lab</h1>
   <p><b>Laboratorio de Soluciones Avanzadas en Virtualización e Inteligencia Artificial</b></p>
