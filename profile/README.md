@@ -1,7 +1,7 @@
 # SavIA-Lab
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/6abbc8e7a42be0034a9e8a49/4fb4ceb6-84c5-4a35-886d-48d66d41da80/GitHub+Banner.png?content-type=image%2Fpng" alt="SavIA-Lab" width="100%">
+  <img src="https://images.squarespace-cdn.com/content/6abbc8e7a42be0034a9e8a49/a46f98bb-553e-4452-8e14-422db9aeee3f/GitHub+Banner.png?content-type=image%2Fpng" alt="SavIA-Lab" width="100%">
 </p>
 
 <p align="center">
@@ -26,52 +26,63 @@
 
 ---
 
-## 🧠 SavIA-Lab
+## SavIA-Lab
 
 **SavIA-Lab** es un centro de investigación, innovación tecnológica y formación especializada en **inteligencia artificial aplicada a la salud**.
 
-Integramos investigación científica, desarrollo tecnológico y formación para explorar nuevas formas de aplicar la inteligencia artificial a problemas relevantes del ámbito de la salud.
+Este espacio reúne la producción técnica y científica desarrollada en el laboratorio: proyectos, software, trabajos académicos, documentación y otros recursos relacionados con inteligencia artificial.
 
-Nuestro espacio en GitHub reúne proyectos, software, investigación académica y documentación desarrollados dentro del laboratorio.
-
----
-
-## 🔬 Investigación y desarrollo
-
-Trabajamos en la intersección entre:
-
-| Investigación                            | Tecnología                                    | Formación                                       |
-| ---------------------------------------- | --------------------------------------------- | ----------------------------------------------- |
-| Exploración científica y experimentación | Desarrollo de soluciones y herramientas de IA | Aprendizaje basado en proyectos e investigación |
-
-Las iniciativas se organizan en repositorios independientes, permitiendo consultar cada proyecto y sus recursos de manera específica.
-
-```text
-                    SavIA-Lab
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-   Investigación    Desarrollo      Formación
-        │               │               │
-        └───────────────┼───────────────┘
-                        │
-                        ▼
-               Conocimiento compartido
-```
+> **Explora el trabajo. Conoce los proyectos. Construye sobre el conocimiento compartido.**
 
 ---
 
-## 🌱 Explora
+## Explora nuestro ecosistema
 
-Nuestro trabajo está disponible a través de diferentes tipos de repositorios:
+Los repositorios de SavIA-Lab se organizan de acuerdo con su propósito, facilitando la identificación y exploración de cada iniciativa.
 
-- **Proyectos de investigación y desarrollo**
-- **Software reutilizable**
-- **Trabajos de grado**
-- **Documentación y publicaciones**
-- **Recursos y herramientas para inteligencia artificial**
+| Tipo                  | Prefijo          | Contenido                                                            |
+| --------------------- | ---------------- | -------------------------------------------------------------------- |
+| **Proyectos**         | `project-*`      | Investigación y desarrollo                                           |
+| **Software interno**  | `int-software-*` | Herramientas desarrolladas para reutilización dentro del laboratorio |
+| **Software externo**  | `ext-software-*` | Software de terceros incorporado, modificado o mantenido             |
+| **Trabajos de grado** | `thesis-*`       | Trabajos de pregrado y posgrado                                      |
+| **Documentación**     | `docs-*`         | Publicaciones, artículos e iniciativas documentales                  |
+| **Organización**      | `savia-*`        | Recursos e iniciativas propias de la organización                    |
 
-Cada repositorio contiene su propia información, documentación y recursos para profundizar en el trabajo realizado.
+Los repositorios especiales `.github` y `SavIA-Lab.github.io` constituyen excepciones a esta convención.
+
+---
+
+## Cómo está organizado
+
+Nuestra organización utiliza tres elementos complementarios para facilitar la navegación y gestión del ecosistema:
+
+**Prefijos**  
+Identifican el propósito general de cada repositorio.
+
+**Topics**  
+Añaden información específica sobre tecnologías, áreas o características del repositorio.
+
+**Teams**  
+Agrupan colaboradores y gestionan el acceso de acuerdo con las áreas de trabajo.
+
+Esta estructura permite que los repositorios permanezcan independientes, pero formen parte de un ecosistema coherente y fácil de explorar.
+
+---
+
+## Áreas de trabajo
+
+Nuestro trabajo se desarrolla en la intersección entre inteligencia artificial, investigación, desarrollo tecnológico y salud.
+
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Healthcare` · `Computer Vision` · `Research` · `Software Development`
+
+Las áreas y tecnologías evolucionan junto con los proyectos y líneas de trabajo del laboratorio.
+
+---
+
+## Repositorios
+
+Cada repositorio representa una iniciativa o recurso independiente y cuenta con su propia documentación, código y recursos asociados.
 
 <p align="center">
   <a href="https://github.com/SavIA-Lab?tab=repositories">
@@ -81,17 +92,28 @@ Cada repositorio contiene su propia información, documentación y recursos para
 
 ---
 
-## 🧩 Áreas de interés
+## Documentación organizacional
 
-Entre nuestros ámbitos de trabajo se encuentran:
+La estructura, convenciones y procesos de trabajo de SavIA-Lab se encuentran documentados dentro de nuestra organización.
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Healthcare` · `Computer Vision` · `Research` · `Software Development`
+- **Organización** — estructura general del GitHub
+- **Tipos de repositorio** — clasificación y propósito
+- **Nomenclatura** — convenciones para nombres
+- **Topics** — clasificación temática
+- **Teams** — organización de colaboradores y acceso
+- **Permisos** — gestión de acceso
+- **Workflow** — flujo de trabajo
+- **Gobernanza** — lineamientos organizacionales
 
-> Las áreas evolucionan junto con los proyectos y líneas de trabajo del laboratorio.
+Consulta el repositorio `.github` para conocer estas convenciones con mayor detalle.
 
 ---
 
-## 🌐 Conoce más
+## Conoce SavIA-Lab
+
+Este perfil representa nuestro **ecosistema técnico y científico en GitHub**.
+
+Para conocer más sobre el laboratorio, sus capacidades, proyectos y contexto institucional, visita nuestro sitio principal.
 
 <p align="center">
   <a href="https://savia-lab.github.io/">
